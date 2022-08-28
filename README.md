@@ -1,1 +1,1 @@
-Template to reproduce for html/css beginners
+Result to reproduce for html/css beginners
